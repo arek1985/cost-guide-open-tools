@@ -1,0 +1,8 @@
+{
+  "name": "cost-guide-open-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {"test": "node --test"},
+  "description": "Controleerbare rekenregels en projectdocumentatie voor woningonderhoud."
+}
