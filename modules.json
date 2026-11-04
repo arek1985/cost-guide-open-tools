@@ -1,0 +1,34 @@
+[
+  {
+    "id": "ST-M10",
+    "slug": "stucwerk-rekenregels",
+    "title": "Oppervlakte van vlakken en openingen narekenen",
+    "function": "nettoOppervlakte",
+    "domain": "https://stukadoor-kosten.nl/",
+    "brand": "Stukadoor Kosten"
+  },
+  {
+    "id": "SC-M10",
+    "slug": "schilderwerk-rekenregels",
+    "title": "Offertebedragen per regel optellen met expliciete btw-invoer",
+    "function": "offerteTotaal",
+    "domain": "https://schilder-kosten.nl/",
+    "brand": "Schilder Kosten"
+  },
+  {
+    "id": "SK-M10",
+    "slug": "werkvolgorde-rekenregels",
+    "title": "Een werkvolgorde controleren op ontbrekende stappen en cirkels",
+    "function": "werkvolgorde",
+    "domain": "https://skilledcontractors.nl/nl",
+    "brand": "SkilledContractors"
+  },
+  {
+    "id": "CL-M10",
+    "slug": "schoonmaak-rekenregels",
+    "title": "Schoonmaaktaken verdelen in inbegrepen, uitgesloten en te bespreken",
+    "function": "scopeOverzicht",
+    "domain": "https://clean4u.org/",
+    "brand": "Clean4U"
+  }
+]
